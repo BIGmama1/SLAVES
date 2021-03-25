@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SLAVES/static/css/main.94d9d93e.chunk.css",
+    "main.js": "/SLAVES/static/js/main.1b670d21.chunk.js",
+    "main.js.map": "/SLAVES/static/js/main.1b670d21.chunk.js.map",
+    "runtime-main.js": "/SLAVES/static/js/runtime-main.b4f88ab7.js",
+    "runtime-main.js.map": "/SLAVES/static/js/runtime-main.b4f88ab7.js.map",
+    "static/css/2.92d02543.chunk.css": "/SLAVES/static/css/2.92d02543.chunk.css",
+    "static/js/2.285e3b29.chunk.js": "/SLAVES/static/js/2.285e3b29.chunk.js",
+    "static/js/2.285e3b29.chunk.js.map": "/SLAVES/static/js/2.285e3b29.chunk.js.map",
+    "index.html": "/SLAVES/index.html",
+    "static/css/2.92d02543.chunk.css.map": "/SLAVES/static/css/2.92d02543.chunk.css.map",
+    "static/css/main.94d9d93e.chunk.css.map": "/SLAVES/static/css/main.94d9d93e.chunk.css.map",
+    "static/js/2.285e3b29.chunk.js.LICENSE.txt": "/SLAVES/static/js/2.285e3b29.chunk.js.LICENSE.txt",
+    "static/media/persik.ae9f0072.png": "/SLAVES/static/media/persik.ae9f0072.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4f88ab7.js",
+    "static/css/2.92d02543.chunk.css",
+    "static/js/2.285e3b29.chunk.js",
+    "static/css/main.94d9d93e.chunk.css",
+    "static/js/main.1b670d21.chunk.js"
+  ]
+}
